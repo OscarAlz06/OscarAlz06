@@ -26,3 +26,18 @@ I am continuously developing my skills through hands-on projects in data science
 **Other**
 - Data Visualization
 - Problem Solving
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/De_Datos_a_Decisiones_ML_Financiero.pptx.jpg" width="300"><br><br>
+      <strong>Applied Machine Learning in Finance</strong><br>
+      Led a session on machine learning applications in credit risk, covering data preparation, feature engineering, and predictive modeling.
+    </td>
+    <td align="center">
+      <img src="images/Captura de pantalla 2026-04-01 145816.png" width="300"><br><br>
+      <strong>Personal Finance Tracker (Excel)</strong><br>
+      Developed an advanced Excel tool for personal finance management, including expense tracking, categorization, and financial analysis.
+    </td>
+  </tr>
+</table>
