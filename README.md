@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Oscar Alzate
 
-<!--
-**OscarAlz06/OscarAlz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering student and aspiring Data Scientist, passionate about using data to solve real-world problems.
 
-Here are some ideas to get you started:
+I focus on machine learning, data analysis, and predictive modeling, with an interest in building solutions that generate value and support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I serve as Chapter Finance Director at ANEIAP, where I lead financial management and contribute to strategic decision-making.
+
+I am continuously developing my skills through hands-on projects in data science, exploring areas such as NLP and applied machine learning.
+
+---
+
+## Skills & Tools
+
+**Languages & Tools**
+- Python
+- SQL
+- Advanced Excel
+
+**Data Science**
+- Machine Learning
+- Predictive Modeling
+- NLP
+- Data Analysis
+
+**Other**
+- Data Visualization
+- Problem Solving
