@@ -44,7 +44,7 @@ I am continuously developing my skills through hands-on projects in data science
     </td>
     <td align="center">
       <img src="images/descarga%20(5).png" width="300"><br><br>      
-      <a href="https://github.com/OscarAlz06/excel-personal-finance-dashboard">
+      <a href="https://github.com/OscarAlz06/NeuralNetworks_vs_ARIMA_to_forecast_COLCAP_index">
         <img src="https://img.shields.io/badge/Proyecto-GitHub-blue?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FOscarAlz06%2FNeuralNetworks_vs_ARIMA_to_forecast_COLCAP_index">
       </a>
       <br><br>
