@@ -16,11 +16,12 @@ I am continuously developing my skills through hands-on projects in data science
 - Python
 - SQL
 - Advanced Excel
+- Power BI
 
 **Data Science**
 - Machine Learning
 - Predictive Modeling
-- NLP
+- Deep Learning
 - Data Analysis
 
 **Other**
@@ -42,13 +43,13 @@ I am continuously developing my skills through hands-on projects in data science
       Led a session on machine learning applications in credit risk, covering data preparation, feature engineering, and predictive modeling.
     </td>
     <td align="center">
-      <img src="images/Captura de pantalla 2026-04-01 145816.png" width="300"><br><br>      
+      <img src="images/descarga%20(5).png" width="300"><br><br>      
       <a href="https://github.com/OscarAlz06/excel-personal-finance-dashboard">
-        <img src="https://img.shields.io/badge/Excel-Project-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img src="https://img.shields.io/badge/Proyecto-GitHub-blue?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FOscarAlz06%2FNeuralNetworks_vs_ARIMA_to_forecast_COLCAP_index">
       </a>
       <br><br>
       <strong>Personal Finance Tracker (Excel)</strong><br>
-      Developed an advanced Excel tool for personal finance management, including expense tracking, categorization, and financial analysis.
+      I compared Deep learning and ARIMA for forecasting the Colombian stock market index (COLCAP), using a rigorous statistical validation protocol that went beyond error metrics.
     </td>
   </tr>
 </table>
